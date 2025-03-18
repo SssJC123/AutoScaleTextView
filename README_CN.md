@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 步骤2: 添加依赖
 ```groovy
 dependencies {
-    implementation 'tech.qingge.lib:AutoScaleTextView:1.1'
+    implementation 'tech.qingge.lib:AutoScaleTextView:1.2'
 }
 ```
 
