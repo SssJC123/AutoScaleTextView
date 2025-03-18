@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 Step2: Add the dependency
 ```groovy
 dependencies {
-    implementation 'tech.qingge.lib:AutoScaleTextView:1.0'
+    implementation 'tech.qingge.lib:AutoScaleTextView:1.1'
 }
 ```
 
@@ -27,7 +27,6 @@ Step3: Use in xml
     app:maxTextSize="24dp"
     app:minTextSize="12dp" />
 ```
-
 
 # Screenshots
 ![](pictures/Screenshot.png)
