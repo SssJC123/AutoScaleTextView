@@ -34,9 +34,9 @@ publishing {
     publications {
         //noinspection WrongGradleMethod
         register<MavenPublication>("release") {
-            groupId = "tech.qingge.lib"
+            groupId = "tech.qingge"
             artifactId = "AutoScaleTextView"
-            version = "1.0"
+            version = "1.3"
             afterEvaluate {
                 from(components["release"])
             }
